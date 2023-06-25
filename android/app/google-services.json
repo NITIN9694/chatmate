@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "733012771030",
+    "project_id": "chatmate-837db",
+    "storage_bucket": "chatmate-837db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733012771030:android:78bd42ace74120556ac977",
+        "android_client_info": {
+          "package_name": "com.example.chatmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733012771030-g965m792nlj9lbn04vf37ojnsdoir256.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatmate",
+            "certificate_hash": "cadeafed38ecb4c4e3ea307b52655a5fcad8f9f6"
+          }
+        },
+        {
+          "client_id": "733012771030-6va2l0v1o7oc3l62oclgh3bq5dujhcvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoNQKmeoEaAhMKzz-tb95KV-p96k5vWDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733012771030-5hbo72o31ie90qijabqrb18la6d00psq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733012771030-hs0ct0sqlabd8ed0vhdb959bsbg39nkr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatmate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
