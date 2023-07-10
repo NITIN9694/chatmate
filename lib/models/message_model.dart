@@ -8,8 +8,6 @@ class Message {
     required this.sent,
   });
 
-  Q
-
 
   late final String toId;
   late final String msg;
